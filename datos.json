@@ -2,46 +2,47 @@
   {
     "title": "CODÚ",
     "category": "Diseño Web",
-    "photo": "codu.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/codu.webp"
   },
   {
     "title": "NEWLOOK",
     "category": "Dirección de Arte",
-    "photo": "newlook.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/newlook.webp"
   },
   {
     "title": "F. ALMA CHILE",
     "category": "Branding",
-    "photo": "alma.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/alma.webp"
   },
   {
     "title": "Peque",
     "category": "Ilustración",
-    "photo": "peque.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/peque.webp"
   },
   {
     "title": "PATRÓN HALLOWEEN",
     "category": "Ilustración",
-    "photo": "hallo.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/hallo.webp"
   },
   {
     "title": "BRODERIE",
     "category": "Diseño Web",
-    "photo": "broderie.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/broderie.webp"
   }
   {
     "title": "MAVEN",
     "category": "Packaging",
-    "photo": "maven.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/maven.webp"
   }
   {
     "title": "BEHEALTHY",
     "category": "Packaging",
-    "photo": "behealthy.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/detox.webp"
   }
   {
     "title": "LAMP",
     "category": "Diseño Industrial",
-    "photo": "lamp.jpg"
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/lamp.webp"
   }
+
 ]
