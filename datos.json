@@ -1,0 +1,47 @@
+[
+  {
+    "title": "CODÚ",
+    "category": "Diseño Web",
+    "photo": "codu.jpg"
+  },
+  {
+    "title": "NEWLOOK",
+    "category": "Dirección de Arte",
+    "photo": "newlook.jpg"
+  },
+  {
+    "title": "F. ALMA CHILE",
+    "category": "Branding",
+    "photo": "alma.jpg"
+  },
+  {
+    "title": "Peque",
+    "category": "Ilustración",
+    "photo": "peque.jpg"
+  },
+  {
+    "title": "PATRÓN HALLOWEEN",
+    "category": "Ilustración",
+    "photo": "hallo.jpg"
+  },
+  {
+    "title": "BRODERIE",
+    "category": "Diseño Web",
+    "photo": "broderie.jpg"
+  }
+  {
+    "title": "MAVEN",
+    "category": "Packaging",
+    "photo": "maven.jpg"
+  }
+  {
+    "title": "BEHEALTHY",
+    "category": "Packaging",
+    "photo": "behealthy.jpg"
+  }
+  {
+    "title": "LAMP",
+    "category": "Diseño Industrial",
+    "photo": "lamp.jpg"
+  }
+]
