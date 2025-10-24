@@ -20,8 +20,8 @@
   {
     "title": "Peque",
     "category": "Ilustración",
-    "photo": "https://isapuelma.github.io/Clase_10/imagen/peque.webp", // <-- ¡DEBES REEMPLAZAR ESTA URL CON LA REAL!
-    "description": "Diseño de fanzine ilustrado que explora las creencias de nuestra niñez. Álbum Coleccionable" 
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/peque.webp", 
+    "description": "Diseño de fanzine ilustrado que explora las creencias de nuestra niñez. Álbum Coleccionable"
   },
   {
     "title": "PATRÓN HALLOWEEN",
@@ -34,19 +34,19 @@
     "category": "Diseño Web",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/broderie.webp",
     "description": "Diseño de página web en Shopify para Broderie, marca de pijamas premium. Creación de manual de marca completo."
-  }, // <--- COMA AÑADIDA
+  },
   {
     "title": "MAVEN",
     "category": "Packaging",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/maven.webp",
     "description": "Diseño de packaging para Maven, marca de joyería de lujo."
-  }, // <--- COMA AÑADIDA
+  },
   {
     "title": "BEHEALTHY",
     "category": "Packaging",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/detox.webp",
     "description": "Sistema de packaging para productos de marca de suplementos y bienestar: Behealthy."
-  }, // <--- COMA AÑADIDA
+  },
   {
     "title": "LAMP",
     "category": "Diseño Industrial",
