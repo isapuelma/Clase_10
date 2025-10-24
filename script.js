@@ -30,6 +30,7 @@ async function datos(raw) {
 }
 
 
-datos("https://isapuelma.github.io/Clase_10/datos.json")
+datos("datos.json");
+
 
 
