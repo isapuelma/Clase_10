@@ -3,47 +3,55 @@
     "title": "CODÚ",
     "category": "Diseño Web",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/codu.webp",
+    "description": "Diseño de página web en Shopify, para Codú marca de T-shirts, que apoya directamente a sus artistas."
   },
   {
     "title": "NEWLOOK",
     "category": "Dirección de Arte",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/newlook.webp",
+    "description": "Se creó la colección de moda de 6 prendas de vestir inspirado en la moda y practicidad de los años 60's. Dirección de arte y fotografía."
   },
   {
     "title": "F. ALMA CHILE",
     "category": "Branding",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/alma.webp",
+    "description": "Creación de identidad de marca completa para Fundación Alma, refugio de rescate animal para aumentar su alcance."
   },
   {
     "title": "Peque",
     "category": "Ilustración",
-    "photo": "https://isapuelma.github.io/Clase_10/imagen/peque.webp",
+    "photo": "https://isapuelma.github.io/Clase_10/imagen/peque.webp", // <-- ¡DEBES REEMPLAZAR ESTA URL CON LA REAL!
+    "description": "Diseño de fanzine ilustrado que explora las creencias de nuestra niñez. Álbum Coleccionable" 
   },
   {
     "title": "PATRÓN HALLOWEEN",
     "category": "Ilustración",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/hallo.webp",
+    "description": "Diseño de patrón ilustrado para papel de regalo temático."
   },
   {
     "title": "BRODERIE",
     "category": "Diseño Web",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/broderie.webp",
-  }
+    "description": "Diseño de página web en Shopify para Broderie, marca de pijamas premium. Creación de manual de marca completo."
+  }, // <--- COMA AÑADIDA
   {
     "title": "MAVEN",
     "category": "Packaging",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/maven.webp",
-  }
+    "description": "Diseño de packaging para Maven, marca de joyería de lujo."
+  }, // <--- COMA AÑADIDA
   {
     "title": "BEHEALTHY",
     "category": "Packaging",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/detox.webp",
-  }
+    "description": "Sistema de packaging para productos de marca de suplementos y bienestar: Behealthy."
+  }, // <--- COMA AÑADIDA
   {
     "title": "LAMP",
     "category": "Diseño Industrial",
     "photo": "https://isapuelma.github.io/Clase_10/imagen/lamp.webp",
+    "description": "Modelado e impresión 3D de lámpara funcional para el curso CAD/CAM."
   }
-
 ]
 
