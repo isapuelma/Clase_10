@@ -4,10 +4,10 @@ async function datos(raw) {
     try {
         let consulta = await fetch(raw);
         let trabajos = await consulta.json();
+        let trabajos = resultado.data;
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `
-
                             <div class="col">
                                 <div class="card shadow-sm">
                                 <img src="${trabajo.photo}" class="card-img-top">
@@ -31,6 +31,7 @@ async function datos(raw) {
 
 
 datos("datos.json");
+
 
 
 
